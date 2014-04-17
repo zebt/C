@@ -1,5 +1,4 @@
-#include <stdio.h>
-
+```c
 int dzialanie(int a, int b, char c, int q){
   switch(c){
   case '-':
